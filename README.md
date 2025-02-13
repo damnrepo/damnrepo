@@ -6,7 +6,7 @@ fullstack dev
 
 im learning a programming languages in range 3-4 years
 
-*   🌍  I'm based in secret city
+*   🌍 I'm based in secret city
 *   🌍  I'm secret years old
 ### Skills 
 <p align="left">
