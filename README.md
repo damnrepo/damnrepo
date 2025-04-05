@@ -1,7 +1,7 @@
 Hello! 💻 My nickname is "taxilzt"
 ========================
 
-fullstack dev
+fullstack (learning) dev
 -------------
 
 im learning a programming languages in range 3-4 years
