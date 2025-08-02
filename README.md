@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have been studying programming languages for 2-3 years<br>Know: Python, HTML, CSS<br>Learn: Java, C++
+I have been studying programming languages for 2-3 years<br>Know: Python, HTML, CSS<br>Learn: Java, C++, JS
 
 
 # 💻 Tech Stack:
